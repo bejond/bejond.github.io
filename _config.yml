@@ -84,7 +84,7 @@ use_google_apis: false
 google_analytics: false
 
 # Miscellaneous
-favicon: favicon.png
+favicon: /favicon.png
 
 markdown:
   plugins:
