@@ -59,7 +59,7 @@ comment:
         placeholder: Just Do It # enter the comment box placeholder
 
 # Share
-share: default # options: jiathis, bdshare, addtoany, default
+share: none # default # options: jiathis, bdshare, addtoany, default
 
 # Plugins
 plugins:
