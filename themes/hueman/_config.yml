@@ -1,21 +1,21 @@
 # Header
 menu:
-  Home: /
+  Home: ../
   Categories:
-  Tech: http://bejond.org
+  Tech: http://tech.bejond.org
   About: /about/index.html
 
 # Customize
 customize:
     logo:
-        width: 165
-        height: 60
-        url: images/logo-header.png
-    theme_color: '#006bde'
+        width: 185
+        height: 70
+        url: images/logo1.png
+    theme_color: '#c65901'
     highlight: androidstudio
     sidebar: left # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
-    favicon: /favicon.png # path to favicon
+    favicon: /favicon1.png # path to favicon
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
         #twitter: /
         #facebook: /
