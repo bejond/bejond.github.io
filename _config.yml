@@ -9,6 +9,7 @@ description: 记录心情，所思所感
 author: 侧聆
 language: zh-CN
 timezone:
+email: a@bejond.org
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
