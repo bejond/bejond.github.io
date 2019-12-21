@@ -79,7 +79,11 @@ deploy:
 - type: git
   repo: git@github.com:bejond/bejond.github.io.git
   branch: master
-  email: a@bejond.org
+  email: bejond@163.com
+- type: git
+  repo: git@gitee.com:bejond/bejond.git
+  branch: master
+  email: bejond@163.com
 - type: baidu_url_submitter
 
 # Don't Use Google APIs if you are in google-blocked areas
