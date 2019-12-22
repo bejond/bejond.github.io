@@ -112,3 +112,8 @@ baidu_url_submit:
 
 metadata:
   categories: 杂记
+  
+admin:
+  username: bejond
+  password_hash: $2a$10$GGiwUjRtRwkzOf3s1PX/nejbkb9HFMVDACGl/bnghMPX19KsUEjte
+  secret: effefing
