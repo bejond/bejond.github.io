@@ -112,6 +112,7 @@ baidu_url_submit:
 
 metadata:
   categories: 杂记
+  enableComments: true
   
 # admin:
   # username: bejond
