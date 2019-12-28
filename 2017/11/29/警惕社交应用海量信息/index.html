@@ -198,6 +198,10 @@
 
     <section id="comments">
     
+        
+    <div id="valine-thread"></div>
+
+    
     </section>
 
 
@@ -436,6 +440,21 @@
     </div>
 </footer>
         
+    
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src="//cdn.jsdelivr.net/gh/xcss/valine@v1.1.7-rc3/dist/Valine.min.js"></script>
+    <script>
+        new Valine({
+            el: '#valine-thread' ,
+            notify:null,
+            verify:true,
+            app_id: '5DJpYXCs0NJXS6u3SKSpzT1N-gzGzoHsz',
+            app_key: '2eN7qtOjoFo6twqUYO8Rv0o4',
+            placeholder: '不抛弃自己，你就不会孤单。'
+        });
+    </script>
+
+
 
 
     
