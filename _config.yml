@@ -45,7 +45,7 @@ highlight:
   tab_replace:
 
 # Category & Tag
-default_category: uncategorized
+default_category: 杂记
 category_map:
 tag_map:
 
