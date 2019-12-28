@@ -64,7 +64,7 @@ menu:
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 4
+per_page: 6
 pagination_dir: page
 
 # Extensions
@@ -111,8 +111,8 @@ baidu_url_submit:
   path: baidu_urls.txt ## 文本文档的地址， 新链接会保存在此文本文档里
 
 metadata:
-  categories: 杂记
-  enableComments: true
+  categories: [杂记,生活]
+  comments: true
   
 # admin:
   # username: bejond
