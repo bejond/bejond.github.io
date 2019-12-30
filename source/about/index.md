@@ -1,5 +1,6 @@
 title: 关于侧聆
 date: 2015-12-18 15:42:48
+comments: false
 ---
 这个网站创建一年多，不过并未公开网址。之前是[Bejond IO](http://tech.bejond.org)这个站使用`bejond.org`这个域名，所以有[侧聆](http://bejond.org)这个站没有几篇文章，而站底访客统计上千的情况。
 
