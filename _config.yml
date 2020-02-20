@@ -114,7 +114,8 @@ metadata:
   categories: [杂记,生活]
   comments: true
   
-# admin:
-  # username: bejond
-  # password_hash: $2a$10$GGiwUjRtRwkzOf3s1PX/nejbkb9HFMVDACGl/bnghMPX19KsUEjte
-  # secret: effefing
+# hexo-admin authentification
+admin:
+  username: eagle
+  password_hash: $2a$10$W7jIbbD3FzGl9erZTwrdAurkcwdyQgpjyfznn/kzQ/HuEeoarhb0u
+  secret: 43
