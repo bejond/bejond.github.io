@@ -117,5 +117,5 @@ metadata:
 # hexo-admin authentification
 admin:
   username: eagle
-  password_hash: $2a$10$W7jIbbD3FzGl9erZTwrdAurkcwdyQgpjyfznn/kzQ/HuEeoarhb0u
-  secret: 43
+  password_hash: $2a$10$NxplV5LxD3Cvgxzr9sYLKekE4j3l4X70fKgjXeQHbN1y8PolAcRCK
+  secret: 43aaaa
